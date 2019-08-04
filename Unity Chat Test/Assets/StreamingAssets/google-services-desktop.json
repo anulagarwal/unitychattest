@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735079148835",
+    "firebase_url": "https://unitychatte.firebaseio.com",
+    "project_id": "unitychatte",
+    "storage_bucket": "unitychatte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735079148835:android:55262b37742f48f1",
+        "android_client_info": {
+          "package_name": "com.anulagarwal.unitychattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735079148835-5t07nbbj1m3qd13j56925gkfs3bnju4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXoEF4fd8LtJaLLPZ-EDsR_5XQ53PGD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735079148835-5t07nbbj1m3qd13j56925gkfs3bnju4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
